@@ -1,4 +1,12 @@
 # Villanos
 
-* Dr. Skull
-* Red Skull
+* Doctor Doom
+* Loki
+* Hela
+* Magneto
+* Venom
+* Ultron
+* Scarlet Witch
+* Winter Soldier
+* Namor
+* Emma Frost
