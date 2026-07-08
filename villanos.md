@@ -10,3 +10,4 @@
 * Winter Soldier
 * Namor
 * Emma Frost
+* Capitan America
